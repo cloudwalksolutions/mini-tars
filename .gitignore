@@ -1,0 +1,13 @@
+.coverage
+venv
+.env
+
+*.wav
+*.jpg
+
+config/rover.service
+
+tmp
+
+__pycache__/
+
