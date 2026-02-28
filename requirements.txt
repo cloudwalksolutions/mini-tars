@@ -6,7 +6,7 @@ asyncclick==8.1.7.2
 attrs==23.2.0
 av==11.0.0
 behave==1.2.6
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 colorzero==2.0
