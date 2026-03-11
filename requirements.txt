@@ -48,7 +48,7 @@ SpeechRecognition==3.10.1
 termcolor==2.4.0
 toml==0.10.2
 typing_extensions==4.10.0
-urllib3==2.2.1
+urllib3==2.6.3
 tensorflow
 numpy 
 openai
