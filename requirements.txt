@@ -35,7 +35,7 @@ pydot==2.0.0
 pyee==11.1.0
 pygame==2.5.2
 pylibsrtp==0.10.0
-pyOpenSSL==24.1.0
+pyOpenSSL==26.0.0
 pyparsing==3.1.2
 pytest==6.2.5
 PyYAML==6.0.1
