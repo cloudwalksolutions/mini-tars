@@ -37,7 +37,7 @@ pygame==2.5.2
 pylibsrtp==0.10.0
 pyOpenSSL==24.1.0
 pyparsing==3.1.2
-pytest==6.2.5
+pytest==9.0.3
 PyYAML==6.0.1
 requests==2.31.0
 setuptools==69.2.0
